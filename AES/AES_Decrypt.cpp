@@ -32,7 +32,7 @@ http://en.wikipedia.org/wiki/Advanced_Encryption_Standard
 // Include stdio.h for standard input/output.
 // Used for giving output to the screen.
 #include<stdio.h>
-
+//Evan test commit here 2014.03.04
 // The number of columns comprising a state in AES. This is a constant in AES. Value=4
 #define Nb 4
 
